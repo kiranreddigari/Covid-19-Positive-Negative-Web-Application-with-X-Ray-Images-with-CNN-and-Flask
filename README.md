@@ -14,6 +14,8 @@ step3: Training with CNN
 
 --It downloads best model which has less validation loss by using keras checkpoints.
 
+--put the saved model in a web app folder.
+
 step4:then run app.py file from command prompt ie., python app.py
 
 --a url appears when you run it,take that url and copy it in any web browser
