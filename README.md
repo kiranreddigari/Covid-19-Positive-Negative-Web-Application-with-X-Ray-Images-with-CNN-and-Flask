@@ -2,7 +2,7 @@
 
 step1: Creating dataset
 
---here i got images from two different sites
+--here i got images from two different sources
 
 step2 :  Preprocessing
 
